@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 
-I am a Data Scientist and statistics graduate currently working in the retail space. My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production. I'm open to collaborate on interesting projects. Interested in topics revolving around decision science, MLOps, data viz.
+I am a statistics graduate currently working as a **Data Scientist** in the retail space. My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production. I'm always open to collaborate on interesting projects. Interested in topics revolving around decision science, MLOps, data viz.
 
 These are some of the major technologies/frameworks/tools that I use or have worked with in the past:
 
