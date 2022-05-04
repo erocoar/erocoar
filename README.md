@@ -1,6 +1,6 @@
-<a href="https://www.linkedin.com/in/frederiktiedemann/" target="_blank" rel="nofollow"><img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><img align="right" width="50" src="https://visitor-badge.glitch.me/badge?page_id=erocoar.visitor-badge">
+<a href="https://www.linkedin.com/in/frederiktiedemann/" target="_blank" rel="nofollow"><img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-### Hi there 👋
+### Hi there 👋 
 
 I am a Data Scientist and statistics graduate currently working in the retail space. My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production. I'm open to collaborate on interesting projects. Interested in topics revolving around decision science, MLOps, data viz.
 
@@ -11,6 +11,7 @@ These are some of the major technologies/frameworks/tools that I use or have wor
 <img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"><img title="Databricks" alt="Databricks" width="40px" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4"><img title="PySpark" alt="PySpark" width="40px" src="https://user-images.githubusercontent.com/16050768/166652650-ccd2186b-b1e8-4a37-9613-080d49e3cb0e.png"><img title="MlFlow" alt="MlFlow" width="40px" src="https://miro.medium.com/max/600/1*REO5PIb3hp3KapyADHyzIQ.jpeg">
 <img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png"><img title="PyTorch" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png"><img title="PyTorch" alt="Pandas" width="40px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg"><img title="Tidyverse" alt="Tidyverse" width="40px" src="https://tidyverse.tidyverse.org/articles/tidyverse-logo.png">
 
+![](https://visitor-badge.glitch.me/badge?page_id=erocoar.visitor-badge)
 <!--
 **erocoar/erocoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
