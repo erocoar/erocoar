@@ -1,14 +1,10 @@
-<a href="https://www.linkedin.com/in/frederiktiedemann/" target="_blank" rel="nofollow"><img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=erocoar.visitor-badge)
+<a href="https://www.linkedin.com/in/frederiktiedemann/" target="_blank" rel="nofollow"><img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><img align="left" width="100" src="https://visitor-badge.glitch.me/badge?page_id=erocoar.visitor-badge">
 
 ### Hi there 👋
 
 I am a Data Scientist and statistics graduate currently working in the retail space. My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production. I'm open to collaborate on interesting projects. Interested in topics revolving around decision science, MLOps, data viz.
 
-## Skill Set :muscle:
-
-These are some of the major technologies that I use or have worked on in the past:
+These are some of the major technologies/frameworks/tools that I use or have worked with in the past:
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /><img title="R" alt="R" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png"><img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"><img title="PowerBI" alt="PowerBI" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
 <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"><img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
