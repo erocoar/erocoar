@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/frederiktiedemann/" target="_blank" rel="nofollow"><img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><img align="left" width="100" src="https://visitor-badge.glitch.me/badge?page_id=erocoar.visitor-badge">
+<a href="https://www.linkedin.com/in/frederiktiedemann/" target="_blank" rel="nofollow"><img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><img align="right" width="50" src="https://visitor-badge.glitch.me/badge?page_id=erocoar.visitor-badge">
 
 ### Hi there 👋
 
