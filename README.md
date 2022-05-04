@@ -7,7 +7,7 @@ I am a Data Scientist currently working in the retail space. My day to day work 
 These are some of the major technologies that I use or have worked on in the past:
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img title="R" alt="R" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png">
-|--|--|--|
+|--|--|
 
 
 
